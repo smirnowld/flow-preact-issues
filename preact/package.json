@@ -1,0 +1,17 @@
+{
+  "name": "flow-preact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "flow": "flow"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "preact": "^8.3.1"
+  },
+  "dependencies": {
+    "flow-bin": "^0.81.0"
+  }
+}
