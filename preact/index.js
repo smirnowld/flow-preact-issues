@@ -1,4 +1,4 @@
-// @flow @jsx h
+// @flow
 
 import { h, Component, render } from 'preact'
 

@@ -1,2 +1,4 @@
 [include]
 *.(js|jsx)
+[libs]
+flow-typed
